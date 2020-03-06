@@ -1,0 +1,2 @@
+# MyTestGitRepo
+Tets git commands
